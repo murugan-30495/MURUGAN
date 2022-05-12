@@ -32,21 +32,5 @@ public class github {
 		   System.out.println("EmployeeAddress - chennai");
 	 }
 	   
-	   /**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		 
-		github g = new github();
-		   
-		   g.empId();
-		   g.empName();
-		   g.empMail();
-		   g.empDob();
-		   g.empAddress();
-		  // e.empPhone();
-	}
-	   
- 
 
 }
